@@ -1,4 +1,4 @@
-{
+[
 
     {
       "imageURL": "https://images.pexels.com/photos/5836441/pexels-photo-5836441.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -336,5 +336,6 @@
       "Mins": "35",
       "Servings": "4"
     }
+    
   ]
-}
+
