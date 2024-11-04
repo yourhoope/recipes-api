@@ -1,7 +1,7 @@
 {
-  "Rec1": [
+
     {
-      "image": "https://images.pexels.com/photos/5836441/pexels-photo-5836441.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "imageURL": "https://images.pexels.com/photos/5836441/pexels-photo-5836441.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "RecipeTitle": "Chicken Quesadilla",
       "Description": "“This recipe is for keeps! My first time making it and hubs says it's way better than the ones in the restaurants!” ",
       "Steps": [
@@ -20,12 +20,11 @@
       "Hours": "0",
       "Mins": "25",
       "Servings": "12"
-    }
-  ],
+    },
 
-  "Rec2": [
+
     {
-      "image": "https://www.recipetineats.com/tachyon/2023/11/Avocado-salad_6.jpg?resize=900%2C1125&zoom=1",
+      "imageURL": "https://www.recipetineats.com/tachyon/2023/11/Avocado-salad_6.jpg?resize=900%2C1125&zoom=1",
       "RecipeTitle": "Avocado salad",
       "Description": "In the summer, fresh and easy salads are always calling my name, and this avocado salad is one I turn to again and again.",
       "Steps": [
@@ -43,12 +42,12 @@
       "Hours": "0",
       "Mins": "10",
       "Servings": "2"
-    }
-  ],
+    },
 
-  "Rec3": [
+
+ 
     {
-      "image": "https://www.recipetineats.com/tachyon/2023/10/Penne-Arrabbiata-1.jpg?resize=900%2C1125&zoom=1",
+      "imageURL": "https://www.recipetineats.com/tachyon/2023/10/Penne-Arrabbiata-1.jpg?resize=900%2C1125&zoom=1",
       "RecipeTitle": "Penne all`Arrabbiata",
       "Description": "Arrabbiata sauce, known in Italian as sugo all'arrabbiata, is a spicy sauce for pasta made from garlic, tomatoes, and dried red chili peppers cooked in olive oil.",
       "Steps": [
@@ -73,12 +72,12 @@
       "Hours": "0",
       "Mins": "45",
       "Servings": "4"
-    }
-  ],
+    },
 
-  "Rec4": [
+
+  
     {
-      "image": "https://www.recipetineats.com/tachyon/2023/09/Garlic-noodles-with-egg-close-up.jpg?resize=900%2C1125&zoom=1",
+      "imageURL": "https://www.recipetineats.com/tachyon/2023/09/Garlic-noodles-with-egg-close-up.jpg?resize=900%2C1125&zoom=1",
       "RecipeTitle": "Garlic Noodles",
       "Description": "These extraordinarily delicious, yet simple Garlic Noodles are a fusion Asian dish made famous by Thanh Long restaurant in San Francisco.",
       "Steps": [
@@ -100,12 +99,12 @@
       "Hours": "0",
       "Mins": "6",
       "Servings": "1"
-    }
-  ],
+    },
 
-  "Rec5": [
+
+
     {
-      "image": "https://www.recipetineats.com/tachyon/2020/11/Slice-of-Chocolate-Mirror-Glaze-Cake_1.jpg?resize=900%2C1125&zoom=1",
+      "imageURL": "https://www.recipetineats.com/tachyon/2020/11/Slice-of-Chocolate-Mirror-Glaze-Cake_1.jpg?resize=900%2C1125&zoom=1",
       "RecipeTitle": "Chocolate Mirror Glaze",
       "Description": "The most stunning of all cake glazes! Made with a simple mixture of cocoa, cream, sugar, water and gelatine.",
       "Steps": [
@@ -130,11 +129,11 @@
       "Hours": "5",
       "Mins": "30",
       "Servings": "16"
-    }
-  ],
-  "Rec6": [
+    },
+
+ 
     {
-      "image": "https://img.freepik.com/free-photo/mexican-tacos-wooden-table_1147-558.jpg?ga=GA1.1.1633964693.1730187580&semt=ais_hybrid",
+      "imageURL": "https://img.freepik.com/free-photo/mexican-tacos-wooden-table_1147-558.jpg?ga=GA1.1.1633964693.1730187580&semt=ais_hybrid",
       "RecipeTitle": "Beef Tacos",
       "Description": "“These beef tacos are quick to make, and taste absolutely amazing! Perfect for a busy weeknight dinner.”",
       "Steps": [
@@ -153,11 +152,10 @@
       "Hours": "0",
       "Mins": "20",
       "Servings": "8"
-    }
-  ],
-  "Rec7": [
+    },
+
     {
-      "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "imageURL": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "RecipeTitle": "Vegetable Stir Fry",
       "Description": "“An easy and healthy veggie stir fry that’s loaded with flavor and vibrant colors.”",
       "Steps": [
@@ -179,11 +177,10 @@
       "Hours": "0",
       "Mins": "15",
       "Servings": "4"
-    }
-  ],
-  "Rec8": [
+    },
+
     {
-      "image": "https://img.freepik.com/free-photo/spaghetti-carbonara_1203-9389.jpg?semt=ais_hybrid",
+      "imageURL": "https://img.freepik.com/free-photo/spaghetti-carbonara_1203-9389.jpg?semt=ais_hybrid",
       "RecipeTitle": "Spaghetti Carbonara",
       "Description": "“A classic Italian pasta dish that’s creamy, cheesy, and delicious. Ready in just 20 minutes!”",
       "Steps": [
@@ -202,11 +199,10 @@
       "Hours": "0",
       "Mins": "20",
       "Servings": "4"
-    }
-  ],
-  "Rec9": [
+    },
+
     {
-      "image": "https://images.pexels.com/photos/13294544/pexels-photo-13294544.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "imageURL": "https://images.pexels.com/photos/13294544/pexels-photo-13294544.jpeg?auto=compress&cs=tinysrgb&w=600",
       "RecipeTitle": "Chicken Alfredo",
       "Description": "“Rich and creamy Alfredo sauce over tender chicken and fettuccine. A comforting classic that never disappoints.”",
       "Steps": [
@@ -227,11 +223,10 @@
       "Hours": "0",
       "Mins": "25",
       "Servings": "4"
-    }
-  ],
-  "Rec10": [
+    },
+
     {
-      "image": "https://images.pexels.com/photos/2233729/pexels-photo-2233729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "imageURL": "https://images.pexels.com/photos/2233729/pexels-photo-2233729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "RecipeTitle": "Salmon Teriyaki",
       "Description": "“Simple yet flavorful, this salmon teriyaki recipe is perfect for a quick and healthy dinner.”",
       "Steps": [
@@ -251,11 +246,10 @@
       "Hours": "0",
       "Mins": "20",
       "Servings": "4"
-    }
-  ],
-  "Rec11": [
+    },
+
     {
-      "image": "https://img.freepik.com/free-photo/deep-fried-prawns-skewers-with-savory-sauce-generated-by-ai_188544-15287.jpg?ga=GA1.1.1633964693.1730187580&semt=ais_hybrid",
+      "imageURL": "https://img.freepik.com/free-photo/deep-fried-prawns-skewers-with-savory-sauce-generated-by-ai_188544-15287.jpg?ga=GA1.1.1633964693.1730187580&semt=ais_hybrid",
       "RecipeTitle": "Shrimp Scampi",
       "Description": "“Juicy shrimp cooked in a garlic butter sauce with a hint of lemon. Perfect with pasta or crusty bread.”",
       "Steps": [
@@ -273,11 +267,10 @@
       "Hours": "0",
       "Mins": "15",
       "Servings": "4"
-    }
-  ],
-  "Rec12": [
+    },
+
     {
-      "image": "https://images.pexels.com/photos/15186040/pexels-photo-15186040/free-photo-of-meat-and-vegetable-meal-on-plate.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "imageURL": "https://images.pexels.com/photos/15186040/pexels-photo-15186040/free-photo-of-meat-and-vegetable-meal-on-plate.jpeg?auto=compress&cs=tinysrgb&w=600",
       "RecipeTitle": "Beef and Broccoli",
       "Description": "“This takeout-style beef and broccoli stir-fry is quick, easy, and absolutely delicious.”",
       "Steps": [
@@ -297,12 +290,10 @@
       "Hours": "0",
       "Mins": "20",
       "Servings": "4"
-    }
-  ],
+    },
 
-  "Rec13": [
     {
-      "image": "https://images.pexels.com/photos/19681747/pexels-photo-19681747/free-photo-of-hand-holding-pizza.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "imageURL": "https://images.pexels.com/photos/19681747/pexels-photo-19681747/free-photo-of-hand-holding-pizza.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "RecipeTitle": "Classic Margherita Pizza",
       "Description": "“A simple and delicious Margherita pizza with fresh mozzarella, basil, and a perfect tomato sauce.”",
       "Steps": [
@@ -321,11 +312,10 @@
       "Hours": "0",
       "Mins": "15",
       "Servings": ""
-    }
-  ],
-  "Rec14": [
+    },
+
     {
-      "image": "https://img.freepik.com/free-photo/chicken-caesar-salad-plate_140725-2358.jpg?ga=GA1.1.1633964693.1730187580&semt=ais_hybrid",
+      "imageURL": "https://img.freepik.com/free-photo/chicken-caesar-salad-plate_140725-2358.jpg?ga=GA1.1.1633964693.1730187580&semt=ais_hybrid",
       "RecipeTitle": "Chicken Parmesan",
       "Description": "“Crispy chicken cutlets topped with marinara sauce and melted mozzarella. A family favorite!”",
       "Steps": [
